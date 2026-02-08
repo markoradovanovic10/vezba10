@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Marko R",
+        "age": 38,
+        "height": 193,
+        "gender": "male"
+    },
+    {
+        "name": "Milos P",
+        "age": 26,
+        "height": 184,
+        "gender": "male"
+    },
+    {
+        "name": "Bojana R",
+        "age": 35,
+        "height": 165,
+        "gender": "female"
+    },
+    {
+        "name": "Aleksandar I",
+        "age": 38,
+        "height": 193,
+        "gender": "male"
+    }
+]
